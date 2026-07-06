@@ -29,8 +29,8 @@ author:
   avatar           : "me.png"          # 头像图片文件名，图片放在 images/ 目录下，例如 images/profiles.png
   name             : "霍斑"     # 左侧边栏显示的姓名
   pronouns         :                         # 人称代词（国外常用），例如："he/him"、"she/her"、"they/them"，国内一般可留空
-  bio              : "Short biography for the left-hand sidebar"   # 左侧边栏个人简介，可简单介绍研究方向、职位等
-  location         : "Shanghai, China"                 # 所在地区，例如："Beijing, China"、"Shanghai, China"
+  bio              : "研究方向是生物信息与深度学习，专注于基因组学数据分析与计算生物学研究，关注生物数据挖掘与算法在生命科学中的应用。"   # 左侧边栏个人简介，可简单介绍研究方向、职位等
+  location         : "ShiYan, China"                 # 所在地区，例如："Beijing, China"、"Shanghai, China"
   employer         : "College of Artificial Intelligence, Hanjiang Normal University"  # 工作单位或学校，例如："Tsinghua University"
   uri              :                         # 个人主页网址，例如：https://yourname.com
   email            : "huoban@hjnu.edu.cn"      # 联系邮箱
